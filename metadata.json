@@ -1,0 +1,8 @@
+{
+  "name": "AgroChain MVP",
+  "description": "A comprehensive agricultural marketplace connecting farmers, customers, and transporters with integrated logistics and AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
